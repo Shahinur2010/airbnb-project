@@ -27,4 +27,4 @@ const HeartButton = () => {
   )
 }
 
-export default HeartButton
+export default HeartButton;
